@@ -6,7 +6,7 @@ def add(a, b):
 
 def main():
     print("Welcome to Simple Python App")
-
+    
     x = int(input("Enter first number:33"))
     y = int(input("Enter second number:66"))
 
