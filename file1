@@ -1,0 +1,17 @@
+# app.py
+# Simple Python program
+
+def add(a, b):
+    return a + b
+
+def main():
+    print("Welcome to Simple Python App")
+
+    x = int(input("Enter first number: "))
+    y = int(input("Enter second number: "))
+
+    result = add(x, y)
+    print("Sum is:", result)
+
+if __name__ == "__main__":
+    main()
