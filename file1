@@ -1,5 +1,5 @@
 # app.py
-# Simple Python program
+# Simple Java program
 
 def add(a, b):
     return a + b
