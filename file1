@@ -7,8 +7,8 @@ def add(a, b):
 def main():
     print("Welcome to Simple Python App")
 
-    x = int(input("Enter first number:55 "))
-    y = int(input("Enter second number: 66 "))
+    x = int(input("Enter first number:24"))
+    y = int(input("Enter second number: 22"))
 
     result = add(x, y)
     print("Sum is:", result)
